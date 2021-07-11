@@ -6,7 +6,7 @@ Merge VTT subtitle segments based on X-TIMESTAMP-MAP MPEGTS
 # Usage
 
 ```bash
-node main.mjs dir out.srt
+node main.mjs dir out.vtt
 ```
 
 
